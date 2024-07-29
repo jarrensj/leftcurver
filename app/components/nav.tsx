@@ -7,12 +7,12 @@ const navItems = {
   '/blog': {
     name: 'blog',
   },
-  '/team': {
-    name: 'team',
-  },
-  '/portfolio': {
-    name: 'portfolio',
-  },
+  // '/team': {
+  //   name: 'team',
+  // },
+  // '/portfolio': {
+  //   name: 'portfolio',
+  // },
 }
 
 export function Navbar() {
